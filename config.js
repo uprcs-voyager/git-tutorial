@@ -1,3 +1,3 @@
 console.log("console.log");
-console.log("version1 updated");
+console.log("version2");
 console.log("config feature");
